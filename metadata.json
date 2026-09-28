@@ -1,0 +1,6 @@
+{
+  "name": "JAYRAJI — Pure Edible Oils",
+  "description": "Corporate web application and B2B distributor portal for JAYRAJI, premium Indian cold-pressed mustard oil and pure edible oils manufacturer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
